@@ -1,5 +1,4 @@
 pyDhd python module -- 31/10/2013
-by Sinan HALIYO, ISIR/UPMC 
 
 This is a SWIG generated wrapper for python2 & python3 bindings to dhd. 
 Actually, all the standard SDK is implemented, with the sole exception of dhdGetOrientationFrame and dhdGetStatus.
