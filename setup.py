@@ -13,7 +13,7 @@ pyDhd_module = Extension('_pyDhd',
                            )
 
 setup (name = 'pyDhd',
-       version = '0.1',
+       version = '1.0',
        author      = "Sinan HALIYO",
        description = """dhd Python interface""",
        ext_modules = [pyDhd_module],
