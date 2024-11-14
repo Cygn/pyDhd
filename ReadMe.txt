@@ -19,4 +19,4 @@ It is not tested on other platforms, but should theoretically work. The author w
 UPDATE -- 14/11/2024
 
 python 3.12 replaced distutils with setuptools, and many bits are depraceted. 
-In the menatime, SWIG out out a patched so it generates files compatible with 3.12, here they are. 
+In the menatime, SWIG put out a patch so it generates files compatible with 3.12, here they are. 
